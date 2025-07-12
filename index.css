@@ -1,0 +1,62 @@
+
+    body {
+      background-color: #f9f5f0;
+      font-family: 'Playfair Display', serif;
+      color: #4e3d2c;
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 20px;
+      border: 2px solid #d9c9b6;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(78, 61, 44, 0.1);
+    }
+
+    h1 {
+      text-align: center;
+      color: #3d2b1f;
+    }
+
+    label {
+      display: block;
+      margin-top: 15px;
+      font-weight: bold;
+    }
+
+    input {
+      width: 100%;
+      padding: 10px;
+      margin-top: 5px;
+      border: 1px solid #b9a48e;
+      border-radius: 6px;
+      background-color: #fffaf4;
+    }
+
+    button {
+      background-color: #8c6e54;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      margin-top: 20px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: bold;
+      transition: background-color 0.3s ease;
+    }
+
+    button:hover {
+      background-color: #6e5642;
+    }
+
+    #datosGuardados {
+      margin-top: 20px;
+      font-style: italic;
+      background-color: #fff8f2;
+      padding: 10px;
+      border: 1px dashed #c2a98b;
+      border-radius: 8px;
+    }
+
+    #contador {
+      font-weight: bold;
+    }
+ 
